@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- :zap: I love I love programming, designing and books.
+- :zap: I love I love programming, designing and books.
 - 🌱 I’m addicted to learning and growing every day.
 - 🔭 I’m currently working on JavaScript and VueJS.
 
@@ -8,7 +8,7 @@
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/feride-metin-558037183/)
   
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <!--
 **FerideMetin/FerideMetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
