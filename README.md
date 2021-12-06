@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :zap: I love I love programming, designing and books.
+- :zap:  I love programming, designing and books.
 - 🌱 I’m addicted to learning and growing every day.
 - 🔭 I’m currently working on JavaScript and VueJS.
 
