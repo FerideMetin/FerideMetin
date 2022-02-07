@@ -2,7 +2,7 @@
 
 - :zap:  I love programming, designing and books.
 - 🌱 I’m addicted to learning and growing every day.
-- 🔭 I’m currently working on JavaScript and VueJS.
+- 🔭 I’m currently working on JavaScript and React.
 
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my github account.
 - 📫 How to find me: 
