@@ -9,15 +9,20 @@
 
      [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://gcdn.bionluk.com/site/icon/faviconsv2/apple-icon-180x180.png" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fgmail-new-icon-logo-vector-svg-pdf-ai-eps-cdr-free-download-16539.html&psig=AOvVaw3CWQksgtnp77v7jx9CA6f4&ust=1704744976055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDMm4iMzIMDFQAAAAAdAAAAABAQ" />][gmail]
+[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://abs.twimg.com/favicons/twitter.3.ico" />][X]
+
 
 <br />
 
-[instagram]: https://www.instagram.com/feridemtn/
-[bionluk]: https://bionluk.com/feridemetin
 [linkedin]: https://www.linkedin.com/in/feride-metin-558037183/
+[bionluk]: https://bionluk.com/feridemetin
 [gmail]: mailto:feridemetin97@gmail.com
+[instagram]: https://www.instagram.com/feridemtn/
+[X]: https://twitter.com/frdemtn
+
+
 
 <br />
 
