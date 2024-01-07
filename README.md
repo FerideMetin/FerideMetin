@@ -8,7 +8,7 @@
 - 📫 How to find me: 
 
      [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="file:///Users/feridemetin/Desktop/bionluk.png" />][bionluk]
+[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://images-ext-1.discordapp.net/external/JNSAPOcN3EMyZNDH9L9j34uFRKKa7u-759ieXYa_xMg/https/gcdn.bionluk.com/site/icon/faviconsv2/apple-icon-180x180.png?format=webp&quality=lossless&width=360&height=360" />][bionluk]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
