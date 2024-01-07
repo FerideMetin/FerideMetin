@@ -10,7 +10,7 @@
      [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://gcdn.bionluk.com/site/icon/faviconsv2/apple-icon-180x180.png" />][bionluk]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fgmail-new-icon-logo-vector-svg-pdf-ai-eps-cdr-free-download-16539.html&psig=AOvVaw3CWQksgtnp77v7jx9CA6f4&ust=1704744976055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDMm4iMzIMDFQAAAAAdAAAAABAQ" />][gmail]
 
 <br />
 
