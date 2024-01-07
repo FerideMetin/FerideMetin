@@ -28,8 +28,8 @@
 
 -    Languages and tools: 
 
-
-     [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+     [<img align="left" alt="MySQL" width="30px" src="https://static.figma.com/app/icon/1/favicon.png" />][figma]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
@@ -38,10 +38,10 @@
 [<img align="left" alt="MySQL" width="30px" src="http://www.onurbabur.com/wp-content/uploads/2020/09/MySQL-Logo.wine_.png" />][mysql]
 
 
-
 <br />
 
 
+[figma]: https://www.figma.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
