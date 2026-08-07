@@ -16,8 +16,8 @@
 
 * 📫 **How to reach me**
 
-  * LinkedIn: *(Add your LinkedIn profile)*
-  * E-mail: *(Add your e-mail address)*
+  * LinkedIn: https://www.linkedin.com/in/feride-metin-558037183/
+  * E-mail: [feridemetin97@gmail.com](mailto:feridemetin97@gmail.com)
 
 ### 🛠️ Languages & Tools
 
